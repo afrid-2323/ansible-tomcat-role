@@ -1,0 +1,7 @@
+---
+- name: Install Tomcat on Red Hat
+  hosts: redhat
+  become: true
+
+  roles:
+    - tomcat

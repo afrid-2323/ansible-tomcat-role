@@ -1,0 +1,5 @@
+---
+tomcat_version: "10.1.61"
+tomcat_port: 8081
+tomcat_install_dir: /opt/tomcat
+tomcat_user: tomcat
